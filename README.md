@@ -1,2 +1,3 @@
 # Page_Object_Project
-Final project from Stepik "Test Automation with Selenium and Python" course
+
+Final project of the [Test automation using Selenium and Python](https://stepik.org/course/575/promo) course.
